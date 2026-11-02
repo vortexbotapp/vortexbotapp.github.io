@@ -1,2 +1,3 @@
-# vortexbotapp.github.io
-GitHub Pages home for VortexBOTApp.
+# VortexBOT
+
+The GitHub Pages home for VortexBOT.
